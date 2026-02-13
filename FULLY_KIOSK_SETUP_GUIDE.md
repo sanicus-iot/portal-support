@@ -21,8 +21,8 @@ This guide provides step-by-step instructions for configuring an Android tablet 
 ### Account Credentials
 
 **Google Account:**
-- Email: `feedback-portal@sanicus-connect.com`
-- Password: `mxb$2qEs6FZh@Z`
+- Email: **Contact Support**
+- Password: **Contact Support**
 
 ---
 
